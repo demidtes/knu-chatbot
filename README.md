@@ -1,4 +1,4 @@
-# University Chatbot
+# KNU Chatbot
 
 University Chatbot is an intelligent agent written in Python and modeled after the ELIZA program that can answer university-related questions for Concordia University using a knowledge graph and natural language processing.
 
@@ -8,7 +8,7 @@ University Chatbot is an intelligent agent written in Python and modeled after t
 
 ## Installation
 
-Install the package installer [pip](https://pip.pypa.io/en/stable/). If you installed Python through [Homebrew](https://brew.sh/), then *pip* should already be installed on your system. Next, navigate to the root folder of the project and install the required packages.
+Install the package installer [pip](https://pip.pypa.io/en/stable/). Next, navigate to the root folder of the project and install the required packages.
 
     $ pip install rdflib
     $ pip install requests
